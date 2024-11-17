@@ -5,11 +5,30 @@ Hi, I'm Mallika Goli 👋
 
 🚀 Skills:Java,DSA and SQL
 
-🚀 Currently exploring: Generative AI,JSONPowerDB
+# JsonPowerDB
 
-📚 Learning new tricks and building new stuff
+## Description
 
-📫 Contact Me
-      LinkedIn: Mallika Goli
+JsonPowerDB is a fast and powerful RESTful database that uses JSON as its data format. It is designed to be efficient for querying and storing data, making it ideal for web applications and APIs.
 
+## Benefits of using JsonPowerDB
 
+- High performance
+- RESTful API
+- Schema-less storage
+- Easy to use
+- Real-time data updates
+- Scalable
+- Open source
+
+## Release History
+
+- v1.0.0: Initial release with basic functionality.
+- v1.1.0: Added support for complex queries.
+
+## Scope of Functionalities
+
+- Basic CRUD operations
+- Data filtering and sorting
+- Real-time updates
+- Data validation
